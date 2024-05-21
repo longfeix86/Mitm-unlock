@@ -102,6 +102,7 @@ host, ulogs.umeng.com, 广告拦截
 host-keyword, adsmind, 广告拦截
 host, adsmind.ugdtimg.com, 广告拦截
 host-suffix, khoaf.com, 广告拦截
+host-suffix, vfgajrk.cn, 广告拦截
 host-suffix, taodb.net, reject
 host-suffix, szwenjiajia.com, reject
 
